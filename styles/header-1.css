@@ -6,9 +6,13 @@
   font-weight: bold;
   font-size: 20px; }
 
+.hallo {
+  font-weight: bold;
+  font-size: 25px;}
+
 .site-header {
   position: relative;
-  background-color: #def7ff; }
+  background-color: #037ca4; }
 
 .site-header__wrapper {
   padding-top: 1rem;
